@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="paoding-analysis">
+    <CLASSES>
+      <root url="jar://D:/GoogleDrive/NLP_Data_Doc/gongju/paoding-analysis-2.0.4-alpha2/paoding-analysis.jar!/" />
+      <root url="jar://D:/GoogleDrive/NLP_Data_Doc/gongju/paoding-analysis-2.0.4-alpha2/lib/lucene-analyzers-2.2.0.jar!/" />
+      <root url="jar://D:/GoogleDrive/NLP_Data_Doc/gongju/paoding-analysis-2.0.4-alpha2/lib/lucene-core-2.2.0.jar!/" />
+      <root url="jar://D:/GoogleDrive/NLP_Data_Doc/gongju/paoding-analysis-2.0.4-alpha2/lib/spring-core.jar!/" />
+      <root url="jar://D:/GoogleDrive/NLP_Data_Doc/gongju/paoding-analysis-2.0.4-alpha2/lib/lucene-highlighter-2.2.0.jar!/" />
+      <root url="jar://D:/GoogleDrive/NLP_Data_Doc/gongju/paoding-analysis-2.0.4-alpha2/lib/commons-logging.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
